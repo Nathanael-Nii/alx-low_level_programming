@@ -2,7 +2,7 @@
 
 /**
  * more_numbers - function prints 10 times the number
- * 
+ *
  * Return: always 0
  */
 
