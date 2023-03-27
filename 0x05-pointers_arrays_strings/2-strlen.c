@@ -2,9 +2,9 @@
 
 /**
  * _strlen - returns the length of a string
- * 
+ *
  * @s: check parameter
- * 
+ *
  * Return: always 0
  */
 
