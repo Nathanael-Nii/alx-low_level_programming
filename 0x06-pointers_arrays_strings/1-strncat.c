@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _strncat - concatenates two strings
+ * *_strncat - concatenates two strings
  *
  * @src: source of strings
  * @dest: destination of string
@@ -25,5 +25,5 @@ char *_strncat(char *dest, char *src, int n)
 		dest[a + b] = src[b];
 	}
 	dest[a + b] = '\0';
-	return (0);
+	return (dest);
 }
