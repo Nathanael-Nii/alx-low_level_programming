@@ -12,7 +12,7 @@
 
 unsigned int _strspn(char *s, char *accept)
 {
-	int a = 0,
+	int a = 0;
 	int b;
 	int c;
 
@@ -27,7 +27,7 @@ unsigned int _strspn(char *s, char *accept)
 			}
 		}
 		else
-			return (0);
+			return (a);
 	}
 	return (0);
 
